@@ -489,6 +489,7 @@ body {
   border-radius: 10px;
 }
 .map {
+  height: 480px;
   margin-top: 96px;
   margin-bottom: 112px;
   max-width: 1140px;
