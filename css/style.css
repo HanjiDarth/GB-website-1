@@ -315,7 +315,7 @@ body {
 .footerListItem {
   list-style: decimal;
   padding-left: 19.16px;
-  width: 316px;
+  max-width: 316px;
 }
 .footerListText {
   font-weight: normal;
@@ -553,7 +553,7 @@ body {
   }
   .footerListItem {
     padding-left: 36.87px;
-    width: 100%;
+    max-width: 100%;
     margin-bottom: 25px;
   }
   .footerListItem:last-child {
@@ -685,7 +685,7 @@ body {
   }
   .footerListItem {
     padding-left: 25px;
-    width: 90%;
+    max-width: 90%;
   }
   .footerListText {
     line-height: 19px;
