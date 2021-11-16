@@ -1,4 +1,4 @@
 # Мой первый сайт на GB
 
-Интерактивный курс GeekBrains  
-GitHub pages: https://hanjidarth.github.io/GB-website-1
+Интерактивный Курс GeekBrains "HTML/CSS"
+GitHub pages: https://hanjidarth.github.io/GB-First_Website
